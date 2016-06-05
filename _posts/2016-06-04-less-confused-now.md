@@ -19,4 +19,6 @@ update client side then `git push`.
 
 *Added:* I need to add the new files to the repo first.
 
+*Added 2:* And I need to commit...
+
 Next step: learn how to do all that from Atom directly.
