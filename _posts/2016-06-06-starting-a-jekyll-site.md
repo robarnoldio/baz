@@ -15,7 +15,7 @@ categories: workflow
 + clone that repo into a directory `git clone <url of that repo>`
 + cd to that directory
 + start a new jekyll site for that directory: `jekyll new . --force`
-++ the force option allows it to not error out
++ the force option allows it to not error out
 + create a CNAME file and put the hostname you want into it
 
 ## On your domain provider:
